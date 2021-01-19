@@ -1,7 +1,7 @@
 
 
 
-# Quizzler Challenge - Starting Files
+# Quizzler - Starting Files
 
 - Clone this repository to your local system.
 
